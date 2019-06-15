@@ -1,2 +1,2 @@
 # zabbix
-Templates, scripts ans tools
+Templates, scripts and tools
